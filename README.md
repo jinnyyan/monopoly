@@ -18,4 +18,4 @@ In the end, the message Monopoly is sending is clear, while in your search to fo
 lot of what you are given is on a game of chance, and is completely, and undeniably random.
 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/jinnyyan/monopoly/blob/master/Monopoly-decision.jpg?raw=true "Decision Matrix")
