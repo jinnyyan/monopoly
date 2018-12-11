@@ -28,7 +28,7 @@ In the end, the message Monopoly is sending is clear, while in your search to fo
 lot of what you are given is on a game of chance, and is completely, and undeniably random.
 
 
-![alt text](https://github.com/jinnyyan/monopoly/blob/master/Monopoly-decision.jpg?raw=true "Decision Matrix")
+![alt text](https://github.com/jinnyyan/monopoly/blob/master/img/Monopoly-decision.jpg?raw=true "Decision Matrix")
 
 ## License
 
