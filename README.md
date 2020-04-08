@@ -1,5 +1,5 @@
 <p align="center">
-  :leaves: <em> Monopoly simulation in Unity! </em> :tomato:
+  &#128377; <em> Monopoly simulation in Unity! </em> &#127922;
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/unity-native-blue.svg" alt="Unity-built">
