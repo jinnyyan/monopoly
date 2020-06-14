@@ -28,7 +28,7 @@ Clone repo (or just .exe and Data folder) and you can run it!
 
 ## Special Thanks
 
-This project would not have been possible without the help of my good friend, Brian. Check out his [GitHub page](https://github.com/welchbj)!
+This project would not have been possible without the help of my good friend (future edit: boyfriend), Brian. Check out his [GitHub page](https://github.com/welchbj)!
 
 
 
